@@ -41,8 +41,10 @@
     ]
   },
   "homepage": "https://dovgano.github.io/goit-react-hw-02-phonebook",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DovganO/goit-react-hw-02-phonebook.git"
+ 
+  "devDependencies": {
+    "husky": "^4.3.7",
+    "lint-staged": "^10.5.3",
+    "prettier": "^2.2.1"
   }
 }
